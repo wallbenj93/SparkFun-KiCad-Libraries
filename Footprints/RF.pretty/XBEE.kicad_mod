@@ -4,10 +4,10 @@
   (attr virtual)
   (fp_text reference >NAME (at 8.89 3.81) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.127)))
-  )
+  
   (fp_text value >VALUE (at 8.89 5.08) (layer F.SilkS)
     (effects (font (size 0.6096 0.6096) (thickness 0.127)))
-  )
+  
   (fp_line (start -4.99872 -27.59964) (end 4.99872 -27.59964) (layer Dwgs.User) (width 0.127))
   (fp_line (start -12.24788 -21.24964) (end -4.99872 -27.59964) (layer Dwgs.User) (width 0.127))
   (fp_line (start 12.24788 -21.24964) (end 4.99872 -27.59964) (layer Dwgs.User) (width 0.127))
